@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_hello_world"
+  site-url: "https://Solab5.github.io/nbdev_hello_world"
+  description: "nbdev tutorial"
+  repo-branch: main
+  repo-url: "https://github.com/Solab5/nbdev_hello_world"
